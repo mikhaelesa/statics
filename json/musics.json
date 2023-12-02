@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "title": "I Don't Mind",
+    "cover": "/covers/Coldiac - Lemons Made Lemonade.webp",
+    "artist": "Coldiac",
+    "songFile": "https://drive.google.com/uc?id=1Db1rFJqWVfMjv82dYyYAdYrAoPmrUg7z",
+    "album": "Lemons Made Lemonade"
+  },
+  {
+    "id": 2,
+    "title": "Niscaya",
+    "cover": "/covers/Bilal Indrajaya - Niscaya.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1G1R3eUzY-zm26sjonHCY1LfILLrQAs3o",
+    "album": "Niscaya"
+  },
+  {
+    "id": 3,
+    "title": "Biar",
+    "cover": "/covers/Bilal Indrajaya - Biar.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1Ay-70vf4a0_VMUUleTwuLCl2ZQOLtuWp",
+    "album": "Biar"
+  },
+  {
+    "id": 4,
+    "title": "Beautiful Day",
+    "cover": "/covers/Coldiac - Beautiful Day.webp",
+    "artist": "Coldiac",
+    "songFile": "https://drive.google.com/uc?id=1C1USgq-XQ_AQKWQ4aIjGgMP4329wQp2L",
+    "album": "Beautiful Day"
+  },
+  {
+    "id": 5,
+    "title": "Adu Rayu",
+    "cover": "/covers/Yovie Tulus Glenn - Adu Rayu.webp",
+    "artist": "Yovie Tulus Glenn",
+    "songFile": "https://drive.google.com/uc?id=1c6_1A2X0mnBapOQEu1lRifqjayJVumt2",
+    "album": "Adu Rayu"
+  },
+  {
+    "id": 6,
+    "title": "Dara",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1m-jSNqqzJVq2ekumAkwiXiict6wbXyLN",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 7,
+    "title": "Menuju Senja",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1Sv6H5aRuZ_2rdXvGYtQ7SWimqX-CXZDb",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 8,
+    "title": "Timur",
+    "cover": "/covers/The Adams - Agterplaas.webp",
+    "artist": "The Adams",
+    "songFile": "https://drive.google.com/uc?id=1KTzU3y0fC0SkpfEwKNhJ-Ilr_AQOiytE",
+    "album": "Agterplaas"
+  },
+  {
+    "id": 9,
+    "title": "Hanya Kau",
+    "cover": "/covers/The Adams - V2.05.webp",
+    "artist": "The Adams",
+    "songFile": "https://drive.google.com/uc?id=1OxT0qaig8nMjP_qS7B9algyO8AjZrnrr",
+    "album": "V2.05"
+  },
+  {
+    "id": 10,
+    "title": "Konservatif",
+    "cover": "/covers/The Adams - The Adams.webp",
+    "artist": "The Adams",
+    "songFile": "https://drive.google.com/uc?id=10d7fzupaC0Tp8FirUxOPn1nuh1nGa0BJ",
+    "album": "The Adams"
+  },
+  {
+    "id": 11,
+    "title": "Kuning",
+    "cover": "/covers/Rumahsakit - 1+2.webp",
+    "artist": "Rumahsakit",
+    "songFile": "https://drive.google.com/uc?id=1UXqwVJQGwQVkAfny1Jr3uJ9-905CiHOb",
+    "album": "1+2"
+  },
+  {
+    "id": 12,
+    "title": "Saujana",
+    "cover": "/covers/Bilal Indrajaya - Saujana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1XVGxFvDg8F8CoJ-pQROEaivMBePIS3Nd",
+    "album": "Saujana"
+  },
+  {
+    "id": 13,
+    "title": "Puan Bermain Hujan",
+    "cover": "/covers/Payung Teduh - Ruang Tunggu.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1Qqn-TqYLsOe2NnCDN1DpsM7t3_z_oVax",
+    "album": "Ruang Tunggu"
+  },
+  {
+    "id": 14,
+    "title": "Angin Pujaan Hujan",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1df8177L2_ABGlP7z2Mnvj8FPm4xw7WsZ",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 15,
+    "title": "Akad",
+    "cover": "/covers/Payung Teduh - Ruang Tunggu.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1o-FUXFfNRqRsyDsqz4xieIqY_NMWNzM5",
+    "album": "Ruang Tunggu"
+  },
+  {
+    "id": 16,
+    "title": "Untuk Perempuan Yang Sedang Di Pelukan",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1O9oZ7mB0JbQRJubN5_8nrwLGIvyHjmXV",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 17,
+    "title": "Berdua Saja",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1dosCtfa-Ldoi_1EdX0yGEFWJ3ie6xQXW",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 18,
+    "title": "Rahasia",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=112Qg4E8k9iCVcha0AUrO6SRD8biO6qXT",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 19,
+    "title": "Resah",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1H7BWary4bTRwdXz-go6gEZUY3vAZreIA",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 20,
+    "title": "Di Ujung Malam",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1SpDRZbILOGXYa1Pal0CBTXKEAhrm7RHy",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 21,
+    "title": "Biarkan",
+    "cover": "/covers/Payung Teduh - Dunia Batas.webp",
+    "artist": "Payung Teduh",
+    "songFile": "https://drive.google.com/uc?id=1SSUZsFtG_i4U-YXLc041Fd_BQRL6zzcI",
+    "album": "Dunia Batas"
+  },
+  {
+    "id": 22,
+    "title": "Badai Telah Berlalu",
+    "cover": "/covers/Diskoria, Laleilmanino, Bunga Citra Lestari - Badai Telah Berlalu.jpg",
+    "artist": "Diskoria, Laleilmanino & Bunga Citra Lestari",
+    "songFile": "https://drive.google.com/uc?id=1WgT4eNTGuacTzt5U3QbnBZ5Hy2H0rjxV",
+    "album": "Badai Telah Berlalu"
+  },
+  {
+    "id": 23,
+    "title": "C.H.R.I.S.Y.E.",
+    "cover": "/covers/Diskoria, Laleilmanino, Eva Celia - C.H.R.I.S.Y.E..jpg",
+    "artist": "Diskoria, Eva Celia & Laleilmanino",
+    "songFile": "https://drive.google.com/uc?id=10tBSyjD6FudihZBU2LdfmjbmZrYfTXq2",
+    "album": "C.H.R.I.S.Y.E."
+  },
+  {
+    "id": 24,
+    "title": "Himalaya",
+    "cover": "/covers/MALIQ & D’Essentials - Musik Pop.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=1O6S_HopGO3dPX6Oto_gjVcovp4YfxkQN",
+    "album": "Musik Pop"
+  },
+  {
+    "id": 25,
+    "title": "Menari",
+    "cover": "/covers/MALIQ & D’Essentials - The Beginning of a Beautiful Life.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=1FQ_4LR1DQ-BussrfCJijePJ0eyRATbk2",
+    "album": "The Beginning of a Beautiful Life"
+  },
+  {
+    "id": 26,
+    "title": "Senja Teduh Pelita",
+    "cover": "/covers/MALIQ & D’Essentials - Senja Teduh Pelita.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=12zsxrVXOzOrT4QvraW4gEcCVgUiL-EUl",
+    "album": "Senja Teduh Pelita"
+  },
+  {
+    "id": 27,
+    "title": "Setapak Sriwedari",
+    "cover": "/covers/MALIQ & D’Essentials - Sriwedari.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=1is1SHxdpsVD13bB8x7Z_KYABvvyoNZQV",
+    "album": "Sriwedari"
+  },
+  {
+    "id": 28,
+    "title": "Aku Cinta Kau Dan Dia",
+    "cover": "/covers/MALIQ & D’Essentials - Aku Cinta Kau Dan Dia.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=17jCEPUcSOILZutrV9Qfb6YIquTxea8LY",
+    "album": "Aku Cinta Kau Dan Dia"
+  },
+  {
+    "id": 29,
+    "title": "Dia",
+    "cover": "/covers/MALIQ & D’Essentials - Free Your Mind.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=1jpTZOibp9aDaq0zEihFjxIRtia4k-YHp",
+    "album": "Free Your Mind"
+  },
+  {
+    "id": 30,
+    "title": "Pilihanku",
+    "cover": "/covers/MALIQ & D’Essentials - Mata Hati Telinga.jpg",
+    "artist": "MALIQ & D’Essentials",
+    "songFile": "https://drive.google.com/uc?id=1z3FBpxXxmi1S2x7-hCfqDiNZ4GPpNRjU",
+    "album": "Mata Hati Telinga"
+  },
+  {
+    "id": 31,
+    "title": "Serenata Jiwa Lara",
+    "cover": "/covers/Diskoria feat. Dian Sastrowardoyo - Serenata Jiwa Lara.jpg",
+    "artist": "Diskoria feat. Dian Sastrowardoyo",
+    "songFile": "https://drive.google.com/uc?id=1wRaxnS_mVrYLrkO0h3-pfHSBHUKWsWe5",
+    "album": "Serenata Jiwa Lara"
+  },
+  {
+    "id": 32,
+    "title": "Juanda",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1iaZjPSBzbNHKfn1yOKgDTiPauAeKJH68",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 33,
+    "title": "Bermuda",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1N20CVOpOnNUfS4Ni3yDilT0D8K8WYSmh",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 34,
+    "title": "Mustahil",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1RnwhYzt_K8DbAr5tIEXHyRat0MtbvaYg",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 35,
+    "title": "Sembilan Jam dari Gambir",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1wAF_arxE1Ee1D2yHHfXGdSP-eAPkTEAg",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 36,
+    "title": "Nelangsa Pasar Turi",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1-Ke1WgJOj_w6xHP9vlZhyvwroGby4ZI-",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 37,
+    "title": "Dalam Pelukan",
+    "cover": "/covers/Bilal Indrajaya - Nelangsa Pasar Turi.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1InwmURRa4Ehr90UizZgo97yAnS9GxGBX",
+    "album": "Nelangsa Pasar Turi"
+  },
+  {
+    "id": 38,
+    "title": "Yang Tercinta",
+    "cover": "/covers/Romantic Echoes, Noh Salleh, Bilal Indrajaya - Yang Tercinta.jpg",
+    "artist": "Romantic Echoes, Noh Salleh, Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1dRPw44J03yxE_PzSqM3egJRATrE4i1eu",
+    "album": "Yang Tercinta"
+  },
+  {
+    "id": 39,
+    "title": "Ruang Kecil",
+    "cover": "/covers/Bilal Indrajaya - Ruang Kecil.jpg",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1OkSkgCKKec_Zd6PjS1KkXJs-FKI2XV8d",
+    "album": "Ruang Kecil"
+  },
+  {
+    "id": 40,
+    "title": "Rancang Rencana",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1tBIfo_dSwP8jLaSTjyMM9qOdWMf-MtPo",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 41,
+    "title": "Pilu Membiru",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1S7WZBmx7yXihsgTE9JskDWYXlSzFnawB",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 42,
+    "title": "Rehat",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1TsOi9plvIDchMChFc4LIhcJttnTLcUK6",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 43,
+    "title": "Jakarta Jakarta",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=12katGVzgeGXnHwycjDtCMHzEJOetNf06",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 44,
+    "title": "Konon Katanya",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1iw6B194_oGq_CkAx-rQOT0bs6eiVLfQn",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 45,
+    "title": "Saudade",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1iUoNKvahAefz-eHI6ENkh5EnR42JCeie",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 46,
+    "title": "Bungsu",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1Y97mW6IW8QjdPf27v46p5U5K0lvzWpkA",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 47,
+    "title": "Topik Semalam",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=19yEceRI2J7xMlsYYUyhPnDnqUbaeoXcO",
+    "album": "Mantra Mantra"
+  },
+  {
+    "id": 48,
+    "title": "Sulung",
+    "cover": "/covers/Kunto Aji - Mantra Mantra.jpg",
+    "artist": "Kunto Aji",
+    "songFile": "https://drive.google.com/uc?id=1URiR_yr_8SlLlOxpA19EBrAqTqqtDMHJ",
+    "album": "Mantra Mantra"
+  }
+]
