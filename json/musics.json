@@ -382,5 +382,53 @@
     "artist": "Kunto Aji",
     "songFile": "https://drive.google.com/uc?id=1URiR_yr_8SlLlOxpA19EBrAqTqqtDMHJ",
     "album": "Mantra Mantra"
+  },
+  {
+    "id": 49,
+    "title": "Lagu Cinta Untuk Dunia",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=193uB9VG4nkFzVCVbo9JMdJ5qZZGj9C3a",
+    "album": "Gulana"
+  },
+  {
+    "id": 50,
+    "title": "Purnama",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1sw9EmkylgsgbbGo139kI4F2qOB9KyUxT",
+    "album": "Gulana"
+  },
+  {
+    "id": 51,
+    "title": "Singgah",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1mZCC7SEPEiPi2H4N1EQ7FZL8S1Mzmg6v",
+    "album": "Gulana"
+  },
+  {
+    "id": 52,
+    "title": "Irma",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1KI-OO6SSYEGoUEqJ-hJV7iFGBIYZU6Fa",
+    "album": "Gulana"
+  },
+  {
+    "id": 53,
+    "title": "Gulana",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1GMwIDnAkdGKOo6eVuWImh1jY5tW4bX0S",
+    "album": "Gulana"
+  },
+  {
+    "id": 54,
+    "title": "Merekah",
+    "cover": "/covers/Bilal Indrajaya - Gulana.webp",
+    "artist": "Bilal Indrajaya",
+    "songFile": "https://drive.google.com/uc?id=1gMMLU0cctjpeHFYHAfk7_MFfqRsqgOHb",
+    "album": "Gulana"
   }
 ]
